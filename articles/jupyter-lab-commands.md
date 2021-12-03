@@ -1,3 +1,11 @@
+---
+title: "マウスなしでjupyter labを使いこなす！"
+emoji: "💬"
+type: "tech" # tech: 技術記事 / idea: アイデア
+topics: ["jupyter lab", "python"]
+published: true
+---
+
 # マウスなしでjupyter labを使いこなす！
 
 Created: December 4, 2021 6:06 AM
